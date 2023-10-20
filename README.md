@@ -13,7 +13,7 @@ To run miniWikipedia locally, you need to have Node.js and npm installed on your
 3. Install the dependencies: `npm install`
 4. Build: `npm run build`
 5. Run the server: `node dist/index.js`
-6. Open your browser and go to `http://localhost:3000` to see the website
+6. Open your browser and go to `[http://localhost:3000](https://www.youtube.com/watch?v=dQw4w9WgXcQ)` to see the website
 
 ## Docker Installation
 <img src=".github/img/docker-logo.webp" width="400" height="100" />
